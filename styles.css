@@ -1,0 +1,13 @@
+body
+{
+    background-image: url("rabbitnducks.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+
+blockquote
+{
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+}
